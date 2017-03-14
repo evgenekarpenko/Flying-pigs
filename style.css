@@ -1,0 +1,175 @@
+p {color: #000;}
+* {
+margin: 0;
+padding: 0;
+border: 0;
+}
+body {
+padding: 2% 0 0;
+background: #fff;
+color: #333;
+font-family: "Comic Sans MS", Verdana, Arial, Helvetica, sans-serif;
+}
+#container {
+width: 760px;
+margin: 0 auto;
+border : 1px solid #999;
+}
+#header {
+background: url(header.jpg) no-repeat;
+width: 760px;
+height: 158px;
+}
+h1 {
+font-size: 250%;
+font-weight: bold;
+padding: 30px 10px 0;
+}
+#header a {
+color: #ffc;
+text-decoration: none;
+}
+#header a:hover {
+color: #EBB0AC;
+text-decoration: none;
+}
+.description {
+font-size: 100%;
+color: #fff;
+padding: 0 10px;
+}
+#nav {
+background: url(images/nav-bg.jpg) repeat-x;
+color: #f00;
+font-size: 120%;
+font-weight: bold;
+line-height: 1.8em;
+text-align: center;
+}
+#nav ul {
+list-style-type: none;
+}
+#nav li {
+display: inline;
+margin: 0 8px;
+}
+#nav li a {
+color: #0c0;
+text-decoration: none;
+}
+#nav li a:hover {
+color: #f00;
+text-decoration: none;
+}
+#text {
+width: 545px;
+font-size: .8em;
+margin: 10px 0;
+float: left;
+}
+#text p {
+text-align: justify;
+text-indent: 1.5em;
+margin: 0;
+padding: 0 15px;
+}
+#text a {
+color: #396;
+}
+#text a:hover {
+color: #f36;
+border-bottom: #f36 dotted 1px;
+}
+.img1 {
+width: 200px;
+height: 287px;
+margin: 0 0 0 15px;
+float: right;
+}
+
+.img2 {
+width: 200px;
+height: 200px;
+margin: 10px 10px 0 15px;
+float: left;
+}
+
+.venzel {
+width: 300px;
+height: 23px;
+margin: 10px 10px 0 15px;
+float: left;
+}
+#members {
+width: 300px;
+float: right;
+}
+
+#members h2 {
+color: #f60;
+font-size: 120%;
+font-weight: bold;
+text-align: center;
+}
+#members ol {
+color: #999;
+font-size: 120%;
+margin: 10px;
+}
+#members li {
+margin: 0 5px;
+}
+#members li a {
+color: #0c0;
+}
+#members li a:hover {
+color: #f00;
+}
+.line {
+width: 304px;
+height: 13px;
+float: right;
+}
+#news {
+background: #ffc;
+width: 185px;
+color: #665;
+margin: 10px 5px;
+float: right;
+}
+#news h3 {
+color: #f60;
+font-size: 120%;
+font-weight: bold;
+text-align: center;
+}
+#news ul {
+list-style: url(marker.jpg) inside;
+}
+#news li {
+font-size: 75%;
+padding: 5px 10px;
+}
+.clearfloat {
+clear: both;
+}
+#footer {
+background: #665;
+color: #fff;
+font-size: 70%;
+padding: 5px;
+}
+#footer a {
+color: #ff0;
+}
+#footer a:hover {
+color: #f00;
+}
+#footer p {
+padding: 2px;
+text-align: center;
+}
+.pic {
+float: left;
+margin: 0 10px 10px 0;
+}
