@@ -16,7 +16,7 @@ margin: 0 auto;
 border : 1px solid #999;
 }
 #header {
-background: url(header.jpg) no-repeat;
+background: url(images/header.jpg) no-repeat;
 width: 760px;
 height: 158px;
 }
